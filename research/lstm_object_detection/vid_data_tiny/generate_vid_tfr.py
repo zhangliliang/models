@@ -10,6 +10,14 @@ import tensorflow as tf
 from lxml import etree
 from PIL import Image
 
+
+'''
+trainset params:
+--root_dir=/media/zhangll/8033420a-189a-492f-8171-df61e209ba45/data/ILSVRC2015 --output_path=train --set=train --num_frames=4 --num_examples=10 --num_shards=10
+valset params:
+--root_dir=/media/zhangll/8033420a-189a-492f-8171-df61e209ba45/data/ILSVRC2015 --output_path=val --set=val --num_frames=4 --num_examples=10 --num_shards=10
+'''
+
 class_dict = {
     'n02691156': 1,
     'n02419796': 2,
