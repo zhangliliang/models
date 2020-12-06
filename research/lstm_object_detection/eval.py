@@ -33,6 +33,12 @@ from lstm_object_detection.inputs import seq_dataset_builder
 from lstm_object_detection.utils import config_util
 from object_detection.utils import label_map_util
 
+
+'''
+eval params:
+--logtostderr --eval_training_data --checkpoint_dir=logs/tiny-train-log --eval_dir=logs/tiny-train-log/eval --pipeline_config_path=configs/lstm_ssd_interleaved_mobilenet_v2_imagenet.config
+'''
+
 tf.logging.set_verbosity(tf.logging.INFO)
 flags = tf.app.flags
 flags.DEFINE_boolean('eval_training_data', False,

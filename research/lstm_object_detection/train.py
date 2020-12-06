@@ -53,6 +53,11 @@ from lstm_object_detection.inputs import seq_dataset_builder
 from lstm_object_detection.utils import config_util
 from object_detection.builders import preprocessor_builder
 
+'''
+training params
+--logtostderr --train_dir=logs/tiny-train-log --pipeline_config_path=configs/lstm_ssd_interleaved_mobilenet_v2_imagenet.config
+'''
+
 flags.DEFINE_string('master', '', 'Name of the TensorFlow master to use.')
 flags.DEFINE_integer('task', 0, 'task id')
 flags.DEFINE_integer('num_clones', 1, 'Number of clones to deploy per worker.')
