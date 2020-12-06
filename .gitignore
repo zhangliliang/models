@@ -96,3 +96,7 @@ ENV/
 
 # For mac
 .DS_Store
+/research/lstm_object_detection/protos/*_pb2.py
+/research/object_detection/protos/*_pb2.py
+/research/lstm_object_detection/logs/*
+
