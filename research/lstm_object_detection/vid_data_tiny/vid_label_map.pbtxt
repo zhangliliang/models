@@ -1,150 +1,150 @@
 item {
   id: 1
-  name: 'n02691156'
+  name: 'n02691156 airplane'
 }
 
 item {
   id: 2
-  name: 'n02419796'
+  name: 'n02419796 antelope'
 }
 
 item {
   id: 3
-  name: 'n02131653'
+  name: 'n02131653 bear'
 }
 
 item {
   id: 4
-  name: 'n02834778'
+  name: 'n02834778 bicycle'
 }
 
 item {
   id: 5
-  name: 'n01503061'
+  name: 'n01503061 bird'
 }
 
 item {
   id: 6
-  name: 'n02924116'
+  name: 'n02924116 bus'
 }
 
 item {
   id: 7
-  name: 'n02958343'
+  name: 'n02958343 car'
 }
 
 item {
   id: 8
-  name: 'n02402425'
+  name: 'n02402425 cattle'
 }
 
 item {
   id: 9
-  name: 'n02084071'
+  name: 'n02084071 dog'
 }
 
 item {
   id: 10
-  name: 'n02121808'
+  name: 'n02121808 domestic cat'
 }
 
 item {
   id: 11
-  name: 'n02503517'
+  name: 'n02503517 elephant'
 }
 
 item {
   id: 12
-  name: 'n02118333'
+  name: 'n02118333 fox'
 }
 
 item {
   id: 13
-  name: 'n02510455'
+  name: 'n02510455 giant panda'
 }
 
 item {
   id: 14
-  name: 'n02342885'
+  name: 'n02342885 hamster'
 }
 
 item {
   id: 15
-  name: 'n02374451'
+  name: 'n02374451 horse'
 }
 
 item {
   id: 16
-  name: 'n02129165'
+  name: 'n02129165 lion'
 }
 
 item {
   id: 17
-  name: 'n01674464'
+  name: 'n01674464 lizard'
 }
 
 item {
   id: 18
-  name: 'n02484322'
+  name: 'n02484322 monkey'
 }
 
 item {
   id: 19
-  name: 'n03790512'
+  name: 'n03790512 motorcycle'
 }
 
 item {
   id: 20
-  name: 'n02324045'
+  name: 'n02324045 rabbit'
 }
 
 item {
   id: 21
-  name: 'n02509815'
+  name: 'n02509815 red panda'
 }
 
 item {
   id: 22
-  name: 'n02411705'
+  name: 'n02411705 sheep'
 }
 
 item {
   id: 23
-  name: 'n01726692'
+  name: 'n01726692 snake'
 }
 
 item {
   id: 24
-  name: 'n02355227'
+  name: 'n02355227 squirrel'
 }
 
 item {
   id: 25
-  name: 'n02129604'
+  name: 'n02129604 tiger'
 }
 
 item {
   id: 26
-  name: 'n04468005'
+  name: 'n04468005 train'
 }
 
 item {
   id: 27
-  name: 'n01662784'
+  name: 'n01662784 turtle'
 }
 
 item {
   id: 28
-  name: 'n04530566'
+  name: 'n04530566 watercraft'
 }
 
 item {
   id: 29
-  name: 'n02062744'
+  name: 'n02062744 whale'
 }
 
 item {
   id: 30
-  name: 'n02391049'
+  name: 'n02391049 zebra'
 }
 
